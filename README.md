@@ -7,6 +7,5 @@ Kong is Orchestration Microservice API Gateway. Kong provides a flexible abstrac
 
 You can read more detail on https://medium.com/@far3ns/kong-the-microservice-api-gateway-526c4ca0cfa6
 
-
 A lot of Plugin on KONG, one of them is OAuth 2.0. So nowadays no need to develop byself for OAuth on your system.
 Here is the tutorial https://medium.com/@far3ns/kong-oauth-2-0-plugin-38faf938a468
