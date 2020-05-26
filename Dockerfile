@@ -1,7 +1,9 @@
 FROM node:carbon
 
+
 # create work directory
 WORKDIR /usr/src/app
+
 
 # copy package.json
 COPY package.json ./
