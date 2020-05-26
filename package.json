@@ -2,7 +2,7 @@
     "name": "docker_node_for_kong",
     "version": "1.0.0",
     "description": "Node.js on Docker for kong",
-    "author": "Faren",
+    "author": "Farhan Akthar",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
